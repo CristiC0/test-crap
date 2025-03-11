@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    width: 90%;
+    margin: auto;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.h1 {
+    text-align: center;
+}
+.p {
+    max-width: 80ch;
+    text-align: center;
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.button {
+    margin: auto;
+    display: block;
+}

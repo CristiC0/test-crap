@@ -1,0 +1,116 @@
+[
+    {
+        "nr": 1,
+        "question": "Montarea de cărămizi sau de țigle.",
+        "category": "R"
+    },
+    {
+        "nr": 2,
+        "question": "A repara electrocasnice (ex. frigider, cuptor).",
+        "category": "R"
+    },
+    {
+        "nr": 3,
+        "question": "Construirea unei alei de cărămidă.",
+        "category": "R"
+    },
+    { "nr": 4, "question": "Repararea unui robinet stricat.", "category": "R" },
+    { "nr": 5, "question": "Instalarea de podele în case.", "category": "R" },
+    { "nr": 6, "question": "Studierea mișcării planetelor.", "category": "I" },
+    { "nr": 7, "question": "A crea un medicament nou.", "category": "I" },
+    {
+        "nr": 8,
+        "question": "A lucra într-un laborator folosind microscopul.",
+        "category": "I"
+    },
+    {
+        "nr": 9,
+        "question": "Studierea comportamentului animalelor.",
+        "category": "I"
+    },
+    {
+        "nr": 10,
+        "question": "A face descoperiri în biologie.",
+        "category": "I"
+    },
+    { "nr": 11, "question": "A dirija un cor muzical.", "category": "A" },
+    {
+        "nr": 12,
+        "question": "A scrie un cântec sau compune o melodie.",
+        "category": "A"
+    },
+    {
+        "nr": 13,
+        "question": "A scrie cărți sau piese de teatru.",
+        "category": "A"
+    },
+    {
+        "nr": 14,
+        "question": "A cânta la un instrument muzical.",
+        "category": "A"
+    },
+    {
+        "nr": 15,
+        "question": "A prezenta o emisiune la televizor.",
+        "category": "A"
+    },
+    {
+        "nr": 16,
+        "question": "A preda unei clase dintr-o școală.",
+        "category": "S"
+    },
+    {
+        "nr": 17,
+        "question": "A învăța pe cineva să își formeze obiceiul de a face sport regulat.",
+        "category": "S"
+    },
+    { "nr": 18, "question": "A învăța copiii să citească.", "category": "S" },
+    {
+        "nr": 19,
+        "question": "A ajuta persoanele în vârstă cu activitățile lor de zi cu zi.",
+        "category": "S"
+    },
+    {
+        "nr": 20,
+        "question": "A avea grijă de copii la creșă.",
+        "category": "S"
+    },
+    {
+        "nr": 21,
+        "question": "A deține un salon de frumusețe sau o frizerie.",
+        "category": "E"
+    },
+    { "nr": 22, "question": "A vinde locuințe.", "category": "E" },
+    { "nr": 23, "question": "A începe propria afacere.", "category": "E" },
+    { "nr": 24, "question": "A conduce un hotel.", "category": "E" },
+    {
+        "nr": 25,
+        "question": "A prezenta un produs pentru a-l vinde.",
+        "category": "E"
+    },
+    {
+        "nr": 26,
+        "question": "A număra produsele dintr-un depozit și ține evidența acestora.",
+        "category": "C"
+    },
+    {
+        "nr": 27,
+        "question": "A folosi un program pe calculator pentru a ține evidența banilor.",
+        "category": "C"
+    },
+    {
+        "nr": 28,
+        "question": "A crea acte și adeverințe pentru oameni într-o firmă.",
+        "category": "C"
+    },
+    {
+        "nr": 29,
+        "question": "A introduce informație într-o bază de date.",
+        "category": "C"
+    },
+    {
+        "nr": 30,
+        "question": "A scrie la calculator documente necesare pentru o firmă.",
+        "category": "C"
+    }
+]
