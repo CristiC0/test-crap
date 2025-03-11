@@ -44,7 +44,7 @@ function Quiz({ onResponse, answers, setAnswers }) {
                     >
                         <button
                             type="button"
-                            className={`btn btn-secondary ${
+                            className={`btn btn-secondary ${styles.b} ${
                                 answer === 1 ? styles.selected : ""
                             }`}
                             onClick={() => setScore(index, 1)}

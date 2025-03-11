@@ -15,10 +15,10 @@ function MainPage({ onStartQuiz }) {
                     <br />
                     <strong>Instrucțiuni: </strong>Opțiunile de răspuns sunt
                     între 1 și 5. Citeşte cu atenţie fiecare descriere şi
-                    apreciază, utilizând scala de mai jos: 1 - nu mi-ar plăcea
-                    absolut deloc 2 - nu prea mi-ar plăcea 3 - nici nu mi-ar
-                    plăcea, nici nu mi-ar displăcea 4 - mi-ar plăcea 5 - mi-ar
-                    plăcea foarte mult
+                    apreciază, utilizând scala de mai jos: <br /> 1 - nu mi-ar
+                    plăcea absolut deloc <br /> 2 - nu prea mi-ar plăcea <br />
+                    3 - nici nu mi-ar plăcea, nici nu mi-ar displăcea <br /> 4 -
+                    mi-ar plăcea <br />5 - mi-ar plăcea foarte mult
                 </p>
                 <button
                     className={`btn btn-lg btn-primary ${styles.button}`}

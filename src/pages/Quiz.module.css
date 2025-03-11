@@ -11,6 +11,11 @@
     color: white;
 }
 
+.selected:hover {
+    background-color: #2c4cc4;
+    color: white;
+}
+
 .button {
     margin: auto;
     display: block;
