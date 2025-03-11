@@ -27,9 +27,32 @@
     text-align: center;
 }
 
+.p1 {
+    max-width: 80ch;
+    text-align: center;
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
 @media (max-width: 768px) {
     .question {
         flex-direction: column;
         width: 95%;
     }
+}
+
+.example {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.types {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    gap: 1rem;
 }

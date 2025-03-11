@@ -13,6 +13,8 @@ function MainPage({ onStartQuiz }) {
                     activități. Este important să fii sincer/ă în răspunsurile
                     oferite.
                     <br />
+                </p>
+                <p className={styles.p1}>
                     <strong>Instrucțiuni: </strong>Opțiunile de răspuns sunt
                     între 1 și 5. Citeşte cu atenţie fiecare descriere şi
                     apreciază, utilizând scala de mai jos: <br /> 1 - nu mi-ar
