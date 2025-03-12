@@ -8,7 +8,7 @@
     padding: 10px;
     border-radius: 8px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
-    font-family: "Comic Sans MS", cursive, sans-serif; /* Optional: playful font */
+    font-family: "Times new roman";
     color: black;
     z-index: 100;
 }
