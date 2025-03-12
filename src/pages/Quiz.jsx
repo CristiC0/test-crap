@@ -28,31 +28,6 @@ function Quiz({ onResponse, answers, setAnswers }) {
     }
     return (
         <div>
-            <div className={styles.example}>
-                <div class="btn-group me-2" role="group" aria-label=" group">
-                    <button type="button" class="btn btn-secondary">
-                        1
-                    </button>
-                    <button type="button" class="btn btn-secondary">
-                        2
-                    </button>
-                    <button type="button" class="btn btn-secondary">
-                        3
-                    </button>
-                    <button type="button" class="btn btn-secondary">
-                        4
-                    </button>
-                    <button type="button" class="btn btn-secondary">
-                        5
-                    </button>
-                </div>
-                <div className={styles.types}>
-                    <p>Nu îmi place</p>
-                    <p>Neutru</p>
-                    <p>Îmi place</p>
-                </div>
-            </div>
-
             {answers.map(({ nr, question, answer }, index) => (
                 <div className={styles.question} key={index}>
                     <p

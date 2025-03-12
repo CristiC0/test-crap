@@ -66,7 +66,7 @@
     },
     {
         "category": "I",
-        "name": "Investigativ",
+        "name": "Investigativ(Gânditori)",
         "response": "Oamenii cu interese investigative se bucură de gândire, analiză și explorare mai mult decât de activitatea fizică. Preferă să facă cercetări și să rezolve probleme mai degrabă decât să convingă sau să conducă oamenii.",
         "message": "Oamenii cărora le place să observe, să învețe, investigheze, analizeze, evalueze sau să rezolve probleme.",
         "are": [
@@ -130,7 +130,7 @@
     },
     {
         "category": "A",
-        "name": "Artistic",
+        "name": "Artistic(Creatori)",
         "response": "Oamenilor cu interese artistice le plac activitățile de muncă care implică creativitate și care se ocupă de forme, modele și schițe. Apreciază exprimarea de sine în munca lor. Ei preferă situațiile în care se poate lucra fără a urma un set clar de reguli.",
         "message": "Persoane care au abilități artistice, inovatoare sau abilități intuiționale și le place să lucreze în situații nestructurate folosindu-și imaginația și creativitatea.",
         "are": [
@@ -193,7 +193,7 @@
     },
     {
         "category": "S",
-        "name": "Social",
+        "name": "Social(Ajutori)",
         "response": "Oamenii cu interese sociale vor să-i asiste pe ceilalți și să promoveze învățarea și dezvoltarea personală. Preferă să lucreze direct cu oamenii decât cu obiecte, mașini sau date. Le place să predea, să dea sfaturi, să ajute sau să oricuma altfel să fie de folos.",
         "message": "Persoanele cărora le place să lucreze cu oamenii pentru a-i lumina, informa, ajuta, antrena sau vindeca sau sunt pricepuți la cuvinte.",
         "are": [
@@ -257,7 +257,7 @@
     },
     {
         "category": "E",
-        "name": "Întreprinzător",
+        "name": "Întreprinzător(Convingători)",
         "response": "Persoanele cu interese întreprinzătoare se bucură să înceapă și să desfășoare proiecte, în special de afaceri. Le place să convingă și să conducă oamenii și să ia decizii. Se simt confortabil asumându-și riscuri pentru profit.",
         "message": "Oamenii cărora le place să lucreze cu oamenii, influențând, convingând, conducând sau gestionând pentru scopuri organizaționale sau câștig economic.",
         "are": [
@@ -324,7 +324,7 @@
     },
     {
         "category": "C",
-        "name": "Convențional",
+        "name": "Convențional(Organizatori)",
         "response": "Persoanelor cu interese convenționale le plac activitățile de muncă care urmează proceduri și rutine prestabilite. Preferă să lucreze mai mult cu date și detalii decât cu idei. Le place munca în care există standarde și principii orientative precise de urmat.",
         "message": "Oamenii cărora le place să lucreze cu date, au abilități de redactare sau numerice, efectuează sarcini în detaliu sau continuă instrucțiunile altora.",
         "are": [

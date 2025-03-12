@@ -52,7 +52,7 @@ function App() {
     };
 
     return (
-        <>
+        <div style={{ overflow: "initial", height: "100%" }}>
             <Header page={page} />
             {page === 1 && <MainPage onStartQuiz={startQuiz} />}
             {page === 2 && (
@@ -64,7 +64,7 @@ function App() {
                 />
             )}
             {page === 3 && <Response category={category} tryAgain={tryAgain} />}
-        </>
+        </div>
     );
 }
 

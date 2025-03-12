@@ -1,20 +1,12 @@
-function Header() {
+import styles from "./Header.module.css";
+function Header({ page }) {
     return (
-        <div>
+        <>
             <nav
                 class="navbar navbar-expand-lg bg-primary"
                 data-bs-theme="dark"
             >
-                <div
-                    style={{
-                        display: "flex",
-                        flexWrap: "inherit",
-                        alignItems: "center",
-                        gap: "10px",
-                        marginRight: "10px",
-                        marginLeft: "10px",
-                    }}
-                >
+                <div className={styles.nav}>
                     <img
                         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBfiCBHxHyH1ksRoK9j2VzZHtshHTwY7hNDQ&s"
                         width={30}
@@ -25,7 +17,20 @@ function Header() {
                     </a>
                 </div>
             </nav>
-        </div>
+            {page === 2 && (
+                <nav class={`${styles.stick}`} data-bs-theme="dark">
+                    <div className={styles.container}>
+                        <p>1 - nu mi-ar plăcea absolut deloc</p>
+                        <p>2 - nu prea mi-ar plăcea </p>
+                        <p>
+                            3 - nici nu mi-ar plăcea, nici nu mi-ar displăcea{" "}
+                        </p>
+                        <p>4 - mi-ar plăcea</p>
+                        <p>5 - mi-ar plăcea foarte mult</p>
+                    </div>
+                </nav>
+            )}
+        </>
     );
 }
 
